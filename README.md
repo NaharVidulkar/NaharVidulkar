@@ -43,6 +43,3 @@ CSE undergraduate at **YCCE, Nagpur** (Batch of 2029). I learn by building thing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nahar--vidulkar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahar-vidulkar)
 [![Devpost](https://img.shields.io/badge/Devpost-NaharVidulkar-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/NaharVidulkar)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahar--vidulkar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahar-vidulkar)
-[![Devpost](https://img.shields.io/badge/Devpost-NaharVidulkar-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/NaharVidulkar)
